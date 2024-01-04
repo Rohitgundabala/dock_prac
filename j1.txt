@@ -1,4 +1,8 @@
-ji
 jello
 how are you
 fine good thankyou
+hi
+hello
+how are you
+thank you
+bye
